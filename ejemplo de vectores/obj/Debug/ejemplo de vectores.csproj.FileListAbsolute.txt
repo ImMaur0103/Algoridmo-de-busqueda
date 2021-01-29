@@ -1,0 +1,8 @@
+c:\users\mau_r\source\repos\ejemplo de vectores\ejemplo de vectores\obj\Debug\ejemplo de vectores.csproj.CoreCompileInputs.cache
+C:\Users\mau_l\source\repos\ejemplo de vectores\ejemplo de vectores\obj\Debug\ejemplo de vectores.csprojAssemblyReference.cache
+C:\Users\mau_l\source\repos\ejemplo de vectores\ejemplo de vectores\obj\Debug\ejemplo de vectores.csproj.CoreCompileInputs.cache
+C:\Users\mau_l\source\repos\ejemplo de vectores\ejemplo de vectores\bin\Debug\ejemplo de vectores.exe.config
+C:\Users\mau_l\source\repos\ejemplo de vectores\ejemplo de vectores\bin\Debug\ejemplo de vectores.exe
+C:\Users\mau_l\source\repos\ejemplo de vectores\ejemplo de vectores\bin\Debug\ejemplo de vectores.pdb
+C:\Users\mau_l\source\repos\ejemplo de vectores\ejemplo de vectores\obj\Debug\ejemplo de vectores.exe
+C:\Users\mau_l\source\repos\ejemplo de vectores\ejemplo de vectores\obj\Debug\ejemplo de vectores.pdb
